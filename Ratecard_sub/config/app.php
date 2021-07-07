@@ -230,6 +230,6 @@ return [
 
     ],
 
-    'ratecard_token' => env('Ratecard_token')
+    'ratecard_token' => env('RATECARD_TOKEN')
 
 ];
